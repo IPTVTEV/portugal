@@ -2,7 +2,7 @@
 #EXTINF:0,CM TV HD
 http://213.58.181.40:8000/play/cmtvt
 #EXTINF:0,SPORT TV 1 HD
-rtmp://area61.better-than.tv:1935/ANYTV_USR_SportTV_One/SportTV_One.sdp
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:0,SPORT TV + HD
 http://213.58.181.40:8000/play/sportv+t
 #EXTINF:0,TVCINE 1 HD
