@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:0,CM TV HD
+http://213.58.181.40:8000/play/cmtvt
+#EXTINF:0,SPORT TV 1 HD
+http://213.58.181.40:8000/play/a00v
+#EXTINF:0,SPORT TV + HD
+http://213.58.181.40:8000/play/sportv+t
+#EXTINF:0,TVCINE 1 HD
+http://213.58.181.40:8000/play/tvcine1t
+#EXTINF:0,TVI 24
+http://213.58.181.40:8000/play/tvi24t
+#EXTINF:0,SIC HD
+http://213.58.181.40:8000/play/sict
+#EXTINF:0,TVI REALITY
+http://213.58.181.40:8000/play/tvirealityt
+#EXTINF:0,AXN HD
+http://213.58.181.40:8000/play/axnhdt
+#EXTINF:0,PORTO CANAL HD
+http://213.58.181.40:8000/play/portocanalt
+#EXTINF:0,TVSERIES HD
+http://213.58.181.40:8000/play/tvseriest
+#EXTINF:0,HOLLYWOOD HD
+http://213.58.181.40:8000/play/hollywoodhdt
+#EXTINF:0,RTP 1
+http://213.58.181.40:8000/play/rtp1t
+#EXTINF:0,SIC NOTICIAS HD
+http://213.58.181.40:8000/play/sicnoticiast
+#EXTINF:0,TVCINE 2 HD
+http://213.58.181.40:8000/play/tvcine2t
+#EXTINF:0,RTP 3
+http://213.58.181.40:8000/play/rtp3t
+#EXTINF:0,MOV HD
+http://213.58.181.40:8000/play/movhdt
+#EXTINF:0,TVCINE 4 HD
+http://213.58.181.40:8000/play/tvcine4t
+#EXTINF:0,TVI
+http://213.58.181.40:8000/play/tvit
+#EXTINF:0,TVCINE 3 HD
+http://213.58.181.40:8000/play/tvcine3t
+#EXTINF:0,RTP 2
+http://213.58.181.40:8000/play/rtp2t
+#EXTINF:0,SIC MULHER HD
+http://213.58.181.40:8000/play/sicmulhert
+#EXTINF:0,SIC CARAS HD
+http://213.58.181.40:8000/play/siccarast
+#EXTINF:-1,CM TV HD
+http://213.58.181.41:8000/play/cmtvt
+#EXTINF:-1,SPORT TV 1 HD
+http://213.58.181.41:8000/play/a00v
+#EXTINF:-1,SPORT TV + HD
+http://213.58.181.41:8000/play/sportv+t
+#EXTINF:-1,TVCINE 1 HD
+http://213.58.181.41:8000/play/tvcine1t
+#EXTINF:-1,TVI 24
+http://213.58.181.41:8000/play/tvi24t
+#EXTINF:-1,SIC HD
+http://213.58.181.41:8000/play/sict
+#EXTINF:-1,TVI REALITY
+http://213.58.181.41:8000/play/tvirealityt
+#EXTINF:-1,AXN HD
+http://213.58.181.41:8000/play/axnhdt
+#EXTINF:-1,PORTO CANAL HD
+http://213.58.181.41:8000/play/portocanalt
+#EXTINF:-1,TVSERIES HD
+http://213.58.181.41:8000/play/tvseriest
+#EXTINF:-1,HOLLYWOOD HD
+http://213.58.181.41:8000/play/hollywoodhdt
+#EXTINF:-1,RTP 1
+http://213.58.181.41:8000/play/rtp1t
+#EXTINF:-1,SIC NOTICIAS HD
+http://213.58.181.41:8000/play/sicnoticiast
+#EXTINF:-1,TVCINE 2 HD
+http://213.58.181.41:8000/play/tvcine2t
+#EXTINF:-1,RTP 3
+http://213.58.181.41:8000/play/rtp3t
+#EXTINF:-1,MOV HD
+http://213.58.181.41:8000/play/movhdt
+#EXTINF:-1,TVCINE 4 HD
+http://213.58.181.41:8000/play/tvcine4t
+#EXTINF:-1,TVI
+http://213.58.181.41:8000/play/tvit
+#EXTINF:-1,TVCINE 3 HD
+http://213.58.181.41:8000/play/tvcine3t
+#EXTINF:-1,RTP 2
+http://213.58.181.41:8000/play/rtp2t
+#EXTINF:-1,SIC MULHER HD
+http://213.58.181.41:8000/play/sicmulhert
+#EXTINF:-1,SIC CARAS HD
+http://213.58.181.41:8000/play/siccarast
