@@ -2,7 +2,7 @@
 #EXTINF:0,CM TV HD
 http://213.58.181.40:8000/play/cmtvt
 #EXTINF:0,SPORT TV 1 HD
-http://213.58.181.40:8000/play/a00v
+rtmp://area61.better-than.tv:1935/ANYTV_USR_SportTV_One/SportTV_One.sdp
 #EXTINF:0,SPORT TV + HD
 http://213.58.181.40:8000/play/sportv+t
 #EXTINF:0,TVCINE 1 HD
