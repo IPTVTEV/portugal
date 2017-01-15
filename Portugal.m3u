@@ -1,105 +1,105 @@
 #EXTM3U
- RTP 1  IPTVultra.com [1440x1088]
+#EXTINF:-1, RTP 1  IPTVultra.com [1440x1088]
 http://46.105.115.37:8000/live/iptv1790/179065287/428.ts
- SPORT TV2  IPTVultra.com [720x576]
+#EXTINF:-1, SPORT TV2  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/431.ts
- RTP 2  IPTVultra.com [720x576]
+#EXTINF:-1, RTP 2  IPTVultra.com [720x576]
 http://46.105.115.37:8000/live/iptv1790/179065287/427.ts
- Nat. Geographic  IPTVultra.com [1440x1088]
+#EXTINF:-1, Nat. Geographic  IPTVultra.com [1440x1088]
 http://46.105.115.37:8000/live/iptv1790/179065287/431.ts
- FOX  IPTVultra.com [1440x1088]
+#EXTINF:-1, FOX  IPTVultra.com [1440x1088]
 http://46.105.115.37:8000/live/iptv1790/179065287/434.ts
- SPORT TV 4  IPTVultra.com [720x576]
+#EXTINF:-1, SPORT TV 4  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/433.ts
- Sporting TV HD  IPTVultra.com [720x576]
+#EXTINF:-1, Sporting TV HD  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/435.ts
- Benfica TV HD  IPTVultra.com [720x576]
+#EXTINF:-1, Benfica TV HD  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/428.ts
- TVCINE 3  IPTVultra.com [720x576]
+#EXTINF:-1, TVCINE 3  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/446.ts
- TVCINE 2  IPTVultra.com [720x576]
+#EXTINF:-1, TVCINE 2  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/445.ts
- CINEMUNDO  IPTVultra.com [720x576]
+#EXTINF:-1, CINEMUNDO  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/471.ts
- Fox hd  IPTVultra.com [1440x1088]
+#EXTINF:-1, Fox hd  IPTVultra.com [1440x1088]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/440.ts
- SPORT TV5 HD  IPTVultra.com [1920x1088]
+#EXTINF:-1, SPORT TV5 HD  IPTVultra.com [1920x1088]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/434.ts
- TVCINE 1  IPTVultra.com [1920x1088]
+#EXTINF:-1, TVCINE 1  IPTVultra.com [1920x1088]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/444.ts
- SPORT TV 3  IPTVultra.com [720x576]
+#EXTINF:-1, SPORT TV 3  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/432.ts
- TVCINE 4  IPTVultra.com [1920x1088]
+#EXTINF:-1, TVCINE 4  IPTVultra.com [1920x1088]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/447.ts
- Fox Movies  IPTVultra.com [640x368]
+#EXTINF:-1, Fox Movies  IPTVultra.com [640x368]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/458.ts
- Fox Crime  IPTVultra.com [784x576]
+#EXTINF:-1, Fox Crime  IPTVultra.com [784x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/441.ts
- FoxLife HD  IPTVultra.com [1280x720]
+#EXTINF:-1, FoxLife HD  IPTVultra.com [1280x720]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/442.ts
- HollyWood  IPTVultra.com [1440x1088]
+#EXTINF:-1, HollyWood  IPTVultra.com [1440x1088]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/443.ts
- AXN BLACK HD  IPTVultra.com [1920x1088]
+#EXTINF:-1, AXN BLACK HD  IPTVultra.com [1920x1088]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/470.ts
- Mov HD  IPTVultra.com [720x576]
+#EXTINF:-1, Mov HD  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/408.ts
- AXN White HD  IPTVultra.com [1920x1088]
+#EXTINF:-1, AXN White HD  IPTVultra.com [1920x1088]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/457.ts
- AXN HD  IPTVultra.com [1280x720]
+#EXTINF:-1, AXN HD  IPTVultra.com [1280x720]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/469.ts
- Toros TV  IPTVultra.com [720x576]
+#EXTINF:-1, Toros TV  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/404.ts
- SyFy  IPTVultra.com [1280x1088]
+#EXTINF:-1, SyFy  IPTVultra.com [1280x1088]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/405.ts
- EuroSport 1  IPTVultra.com [1920x1088]
+#EXTINF:-1, EuroSport 1  IPTVultra.com [1920x1088]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/448.ts
- TVseries  IPTVultra.com [1280x752]
+#EXTINF:-1, TVseries  IPTVultra.com [1280x752]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/436.ts
- TVI FicÃƒÂ&#167;ÃƒÂ&#163;o  IPTVultra.com [720x576]
+#EXTINF:-1, TVI FicÃƒÂ&#167;ÃƒÂ&#163;o  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/437.ts
- TVI 24  IPTVultra.com [640x368]
+#EXTINF:-1, TVI 24  IPTVultra.com [640x368]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/439.ts
- TVI  IPTVultra.com [704x576]
+#EXTINF:-1, TVI  IPTVultra.com [704x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/438.ts
- SIC noticias  IPTVultra.com [720x576]
+#EXTINF:-1, SIC noticias  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/449.ts
- Sic K  IPTVultra.com [1280x1088]
+#EXTINF:-1, Sic K  IPTVultra.com [1280x1088]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/450.ts
- Sic  IPTVultra.com [1280x1088]
+#EXTINF:-1, Sic  IPTVultra.com [1280x1088]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/451.ts
- RTP 2  IPTVultra.com [720x576]
+#EXTINF:-1, RTP 2  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/452.ts
- RTP Internacional  IPTVultra.com [1280x720]
+#EXTINF:-1, RTP Internacional  IPTVultra.com [1280x720]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/453.ts
- RTP  IPTVultra.com [720x576]
+#EXTINF:-1, RTP  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/454.ts
- Porto canal  IPTVultra.com [720x576]
+#EXTINF:-1, Porto canal  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/455.ts
- RTP InformaÃƒÂ&#167;ÃƒÂ&#163;o  IPTVultra.com [720x576]
+#EXTINF:-1, RTP InformaÃƒÂ&#167;ÃƒÂ&#163;o  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/456.ts
- TV Globo  IPTVultra.com [720x576]
+#EXTINF:-1, TV Globo  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/463.ts
- TV Globo Premium  IPTVultra.com [720x576]
+#EXTINF:-1, TV Globo Premium  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/460.ts
- CMTV  IPTVultra.com [720x576]
+#EXTINF:-1, CMTV  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/467.ts
- Nickelodeon  IPTVultra.com [720x576]
+#EXTINF:-1, Nickelodeon  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/473.ts
- Disney Channel  IPTVultra.com [720x576]
+#EXTINF:-1, Disney Channel  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/465.ts
- Disney JR  IPTVultra.com [720x576]
+#EXTINF:-1, Disney JR  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/464.ts
- Canal Panda  IPTVultra.com [720x576]
+#EXTINF:-1, Canal Panda  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/407.ts
- Nat Geo  IPTVultra.com [720x576]
+#EXTINF:-1, Nat Geo  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/461.ts
- Nat Geographic wild  IPTVultra.com [720x576]
+#EXTINF:-1, Nat Geographic wild  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/462.ts
- Discovery  IPTVultra.com [720x576]
+#EXTINF:-1, Discovery  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/466.ts
- TVI Reality (A Quinta)  IPTVultra.com [720x576]
+#EXTINF:-1, TVI Reality (A Quinta)  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/459.ts
- CBS Reality  IPTVultra.com [720x576]
+#EXTINF:-1, CBS Reality  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/410.ts
- A&E  IPTVultra.com [720x576]
+#EXTINF:-1, A&E  IPTVultra.com [720x576]
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/411.ts
