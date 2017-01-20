@@ -1,63 +1,418 @@
 #EXTM3U
-#EXTINF:-1,PT-RTP_1
-http://37.187.175.177:8000/live/bassem077/bassem077/2173.ts
-#EXTINF:-1,PT-RTP_2
-http://37.187.175.177:8000/live/bassem077/bassem077/2172.ts
-#EXTINF:-1,PT-TV_Globo
-http://37.187.175.177:8000/live/bassem077/bassem077/2169.ts
-#EXTINF:-1,PT-TVCine1
-http://37.187.175.177:8000/live/bassem077/bassem077/2168.ts
-#EXTINF:-1,Sport TV 1
-http://51.254.196.199:8080/live/testfast/hTwqA9/2989.ts
-#EXTINF:-1,Sport TV 2
-http://37.187.175.177:8000/live/bassem077/bassem077/1237.ts
-#EXTINF:-1,PT-SPORT_TV_3
-http://37.187.175.177:8000/live/bassem077/bassem077/796.ts
-#EXTINF:-1,PT-SPORT_TV_4
-http://37.187.175.177:8000/live/bassem077/bassem077/3205.ts
-#EXTINF:-1,PT-SPORT_TV5
-http://37.187.175.177:8000/live/bassem077/bassem077/3206.ts
-#EXTINF:-1,PT-TVCine2
-http://37.187.175.177:8000/live/bassem077/bassem077/2167.ts
-#EXTINF:-1,PT-TVCine3
-http://37.187.175.177:8000/live/bassem077/bassem077/2166.ts
-#EXTINF:-1,PT-Fox_Movies
-http://37.187.175.177:8000/live/bassem077/bassem077/2170.ts
-#EXTINF:-1,PT-SIC_Caras
-http://37.187.175.177:8000/live/bassem077/bassem077/2171.ts
-#EXTINF:-1,PT-Fox_HD
-http://37.187.175.177:8000/live/bassem077/bassem077/2175.ts
-#EXTINF:-1,PT-Fox_Crime
-http://37.187.175.177:8000/live/bassem077/bassem077/2176.ts
-#EXTINF:-1,PT-Fox_Comedy
-http://37.187.175.177:8000/live/bassem077/bassem077/2177.ts
-#EXTINF:-1,PT-Disney_Junior
-http://37.187.175.177:8000/live/bassem077/bassem077/2178.ts
-#EXTINF:-1,PT-Disney_Channel
-http://37.187.175.177:8000/live/bassem077/bassem077/2179.ts
-#EXTINF:-1,PT-TVI_Ficcao
-http://37.187.175.177:8000/live/bassem077/bassem077/3402.ts
-#EXTINF:-1,PT-TV_Cseries
-http://37.187.175.177:8000/live/bassem077/bassem077/3403.ts
-#EXTINF:-1,PT-Toros_tv
-http://37.187.175.177:8000/live/bassem077/bassem077/3404.ts
-#EXTINF:-1,PT-Sic_Radical
-http://37.187.175.177:8000/live/bassem077/bassem077/3405.ts
-#EXTINF:-1,PT-Sic_Mulher
-http://37.187.175.177:8000/live/bassem077/bassem077/3406.ts
-#EXTINF:-1,PT-RTP_Memoria
-http://37.187.175.177:8000/live/bassem077/bassem077/3407.ts
-#EXTINF:-1,PT-Record
-http://37.187.175.177:8000/live/bassem077/bassem077/3408.ts
-#EXTINF:-1,PT-Motors_TV
-http://37.187.175.177:8000/live/bassem077/bassem077/3409.ts
-#EXTINF:-1,PT-Jim_Jim
-http://37.187.175.177:8000/live/bassem077/bassem077/3410.ts
-#EXTINF:-1,PT-Discovery_HD
-http://37.187.175.177:8000/live/bassem077/bassem077/3411.ts
-#EXTINF:-1,PT-Canal_Porto
-http://37.187.175.177:8000/live/bassem077/bassem077/3412.ts
-#EXTINF:-1,PT-AXN_HD
-http://37.187.175.177:8000/live/bassem077/bassem077/3413.ts
-#EXTINF:-1,PT-Abola_tv
-http://37.187.175.177:8000/live/bassem077/bassem077/3414.ts
+#EXTINF:-1,Sky_Sports_1_EN
+http://62.210.104.34/live/majed/majed/235.ts
+#EXTINF:-1,Sky_Sports_2_EN
+http://62.210.104.34/live/majed/majed/236.ts
+#EXTINF:-1,Sky_Sports_3_EN
+http://62.210.104.34/live/majed/majed/240.ts
+#EXTINF:-1,BT_Sport_1_EN
+http://62.210.104.34/live/majed/majed/246.ts
+#EXTINF:-1,BT_Sport_2_EN
+http://62.210.104.34/live/majed/majed/247.ts
+#EXTINF:-1,Sky_Select_EN
+http://62.210.104.34/live/majed/majed/251.ts
+#EXTINF:-1,sky_Premiere_EN
+http://62.210.104.34/live/majed/majed/242.ts
+#EXTINF:-1,Sky_Livingit_EN
+http://62.210.104.34/live/majed/majed/252.ts
+#EXTINF:-1,Sky_Family_EN
+http://62.210.104.34/live/majed/majed/254.ts
+#EXTINF:-1,Sky_Comedy_EN
+http://62.210.104.34/live/majed/majed/237.ts
+#EXTINF:-1,sky_action_EN
+http://62.210.104.34/live/majed/majed/255.ts
+#EXTINF:-1,NatGeo_Wild
+http://62.210.104.34/live/majed/majed/249.ts
+#EXTINF:-1,FOX_uk
+http://62.210.104.34/live/majed/majed/248.ts
+#EXTINF:-1,fox_news_EN
+http://62.210.104.34/live/majed/majed/257.ts
+#EXTINF:-1,DISCOVERY_History_EN
+http://62.210.104.34/live/majed/majed/253.ts
+#EXTINF:-1,Cartoonito_EN
+http://62.210.104.34/live/majed/majed/241.ts
+#EXTINF:-1,uk_TLC
+http://62.210.104.34/live/majed/majed/245.ts
+#EXTINF:-1,uk_SYFY
+http://62.210.104.34/live/majed/majed/243.ts
+#EXTINF:-1,NickToons_EN
+http://62.210.104.34/live/majed/majed/3486.ts
+#EXTINF:-1,Nickelodeon_EN
+http://62.210.104.34/live/majed/majed/3487.ts
+#EXTINF:-1,Nat_Geo_EN
+http://62.210.104.34/live/majed/majed/239.ts
+#EXTINF:-1,Disney_MOVIES_EN
+http://62.210.104.34/live/majed/majed/3490.ts
+#EXTINF:-1,Disney_junior_EN
+http://62.210.104.34/live/majed/majed/3491.ts
+#EXTINF:-1,Disney_Channel_EN
+http://62.210.104.34/live/majed/majed/3492.ts
+#EXTINF:-1,Cartoon_Network_EN
+http://62.210.104.34/live/majed/majed/3489.ts
+#EXTINF:-1,uk_alibi
+http://62.210.104.34/live/majed/majed/405.ts
+#EXTINF:-1,uk_dave
+http://62.210.104.34/live/majed/majed/404.ts
+#EXTINF:-1,uk_disney_junior
+http://62.210.104.34/live/majed/majed/403.ts
+#EXTINF:-1,uk_eden
+http://62.210.104.34/live/majed/majed/401.ts
+#EXTINF:-1,uk_home
+http://62.210.104.34/live/majed/majed/399.ts
+#EXTINF:-1,UK: REAL LIVES
+http://62.210.104.34/live/majed/majed/398.ts
+#EXTINF:-1,UK_SKY_SPORT_NEWS
+http://62.210.104.34/live/majed/majed/397.ts
+#EXTINF:-1,uk_sky_drama
+http://62.210.104.34/live/majed/majed/396.ts
+#EXTINF:-1,uk_sky_greats
+http://62.210.104.34/live/majed/majed/395.ts
+#EXTINF:-1,uk_sky_horror
+http://62.210.104.34/live/majed/majed/394.ts
+#EXTINF:-1,uk_watch
+http://62.210.104.34/live/majed/majed/391.ts
+#EXTINF:-1,uk_yesterday
+http://62.210.104.34/live/majed/majed/390.ts
+#EXTINF:-1,uk_disney_channel
+http://62.210.104.34/live/majed/majed/389.ts
+#EXTINF:-1,uk_CHANNEL4
+http://62.210.104.34/live/majed/majed/387.ts
+#EXTINF:-1,uk_channel5
+http://62.210.104.34/live/majed/majed/386.ts
+#EXTINF:-1,uk_E4
+http://62.210.104.34/live/majed/majed/385.ts
+#EXTINF:-1,UK_FILM_4
+http://62.210.104.34/live/majed/majed/384.ts
+#EXTINF:-1,uk_rte1
+http://62.210.104.34/live/majed/majed/383.ts
+#EXTINF:-1,UK_SKY_SPORTS_1
+http://62.210.104.34/live/majed/majed/382.ts
+#EXTINF:-1,UK_SKY_SPORTS_2
+http://62.210.104.34/live/majed/majed/381.ts
+#EXTINF:-1,UK_SKY_SPORTS_3
+http://62.210.104.34/live/majed/majed/380.ts
+#EXTINF:-1,UK_SKY_SPORTS_4
+http://62.210.104.34/live/majed/majed/378.ts
+#EXTINF:-1,uk_sky_sports_f1
+http://62.210.104.34/live/majed/majed/376.ts
+#EXTINF:-1,uk_ANIMAL_planet
+http://62.210.104.34/live/majed/majed/370.ts
+#EXTINF:-1,uk_BBC2
+http://62.210.104.34/live/majed/majed/369.ts
+#EXTINF:-1,uk_CNN
+http://62.210.104.34/live/majed/majed/367.ts
+#EXTINF:-1,UK: DISCOVERY CHANNEL
+http://62.210.104.34/live/majed/majed/366.ts
+#EXTINF:-1,uk_bbc_news
+http://62.210.104.34/live/majed/majed/365.ts
+#EXTINF:-1,uk_itv3
+http://62.210.104.34/live/majed/majed/362.ts
+#EXTINF:-1,uk_itv2
+http://62.210.104.34/live/majed/majed/361.ts
+#EXTINF:-1,uk_itv1
+http://62.210.104.34/live/majed/majed/360.ts
+#EXTINF:-1,UK_SKY_LIVING
+http://62.210.104.34/live/majed/majed/2714.ts
+#EXTINF:-1,UK_BBC_3
+http://62.210.104.34/live/majed/majed/2716.ts
+#EXTINF:-1,UK_BBC_1
+http://62.210.104.34/live/majed/majed/2718.ts
+#EXTINF:-1,UK_BBC_4
+http://62.210.104.34/live/majed/majed/2719.ts
+#EXTINF:-1,UK_ITV4
+http://62.210.104.34/live/majed/majed/2720.ts
+#EXTINF:-1,UK_GOLD
+http://62.210.104.34/live/majed/majed/2724.ts
+#EXTINF:-1,UK_SKY_ONE
+http://62.210.104.34/live/majed/majed/2726.ts
+#EXTINF:-1,UK_SONY_MOVIES
+http://62.210.104.34/live/majed/majed/2728.ts
+#EXTINF:-1,UK_SKY_ATLANTIC
+http://62.210.104.34/live/majed/majed/2731.ts
+#EXTINF:-1,UK_SKY_MOVIES_ACTION_ADVENTURE
+http://62.210.104.34/live/majed/majed/2732.ts
+#EXTINF:-1,UK_SKY_MOVIES_SHOWCASE
+http://62.210.104.34/live/majed/majed/2733.ts
+#EXTINF:-1,UK_TRUE_MOVIES_1
+http://62.210.104.34/live/majed/majed/2734.ts
+#EXTINF:-1,UK_DISNEY_XD
+http://62.210.104.34/live/majed/majed/2735.ts
+#EXTINF:-1,UK_TRUE_MOVIES_2
+http://62.210.104.34/live/majed/majed/2736.ts
+#EXTINF:-1,UK_CRIME_INVESTIGATION
+http://62.210.104.34/live/majed/majed/2737.ts
+#EXTINF:-1,UK_DISCOVERY_SC_HD
+http://62.210.104.34/live/majed/majed/2738.ts
+#EXTINF:-1,UK_FOOD_NETWORK
+http://62.210.104.34/live/majed/majed/2741.ts
+#EXTINF:-1,UK_HISTORY
+http://62.210.104.34/live/majed/majed/2742.ts
+#EXTINF:-1,UK_SKY_ARTS
+http://62.210.104.34/live/majed/majed/2745.ts
+#EXTINF:-1,UK_MTV_DANCE
+http://62.210.104.34/live/majed/majed/2746.ts
+#EXTINF:-1,UK_MTV_HITS
+http://62.210.104.34/live/majed/majed/2747.ts
+#EXTINF:-1,UK_VH1
+http://62.210.104.34/live/majed/majed/2750.ts
+#EXTINF:-1,UK_BOXNATION
+http://62.210.104.34/live/majed/majed/2752.ts
+#EXTINF:-1,UK_EUROSPORT_1
+http://62.210.104.34/live/majed/majed/2753.ts
+#EXTINF:-1,UK_EUROSPORT_2
+http://62.210.104.34/live/majed/majed/2754.ts
+#EXTINF:-1,UK_RACING
+http://62.210.104.34/live/majed/majed/2758.ts
+#EXTINF:-1,UK_MTV_MUSIC
+http://62.210.104.34/live/majed/majed/2760.ts
+#EXTINF:-1,Baby_Tv_EN
+http://62.210.104.34/live/majed/majed/3488.ts
+#EXTINF:-1,USA: Fox_Sports_1
+http://62.210.104.34/live/majed/majed/6943.ts
+#EXTINF:-1,USA: ESPN
+http://62.210.104.34/live/majed/majed/6944.ts
+#EXTINF:-1,5_Star_Max-US
+http://62.210.104.34/live/majed/majed/7814.ts
+#EXTINF:-1,ABC_HD-US
+http://62.210.104.34/live/majed/majed/7815.ts
+#EXTINF:-1,Action_Max_HD-US
+http://62.210.104.34/live/majed/majed/7816.ts
+#EXTINF:-1,AMC_HD-US
+http://62.210.104.34/live/majed/majed/7817.ts
+#EXTINF:-1,CBS_HD-US
+http://62.210.104.34/live/majed/majed/7818.ts
+#EXTINF:-1,CNBC-US
+http://62.210.104.34/live/majed/majed/7819.ts
+#EXTINF:-1,CNN_HD-US
+http://62.210.104.34/live/majed/majed/7820.ts
+#EXTINF:-1,Comedy_Central_US
+http://62.210.104.34/live/majed/majed/7821.ts
+#EXTINF:-1,Discovery_HD-US
+http://62.210.104.34/live/majed/majed/7822.ts
+#EXTINF:-1,ESPN_USA_HD-US
+http://62.210.104.34/live/majed/majed/7823.ts
+#EXTINF:-1,ESPN_2_HD-US
+http://62.210.104.34/live/majed/majed/7824.ts
+#EXTINF:-1,ESPN_News_HD-US
+http://62.210.104.34/live/majed/majed/7825.ts
+#EXTINF:-1,ESPN_U_HD-US
+http://62.210.104.34/live/majed/majed/7826.ts
+#EXTINF:-1,Fox_HD-US
+http://62.210.104.34/live/majed/majed/7828.ts
+#EXTINF:-1,Fox_News_HD-US
+http://62.210.104.34/live/majed/majed/7829.ts
+#EXTINF:-1,Fox_Sports_1_HD-US
+http://62.210.104.34/live/majed/majed/7830.ts
+#EXTINF:-1,Fox_Sports_2_HD-US
+http://62.210.104.34/live/majed/majed/7831.ts
+#EXTINF:-1,HBO-US
+http://62.210.104.34/live/majed/majed/7834.ts
+#EXTINF:-1,HBO_Comedy-US
+http://62.210.104.34/live/majed/majed/7835.ts
+#EXTINF:-1,HBO_Signature-US
+http://62.210.104.34/live/majed/majed/7836.ts
+#EXTINF:-1,HBO_Zone-US
+http://62.210.104.34/live/majed/majed/7837.ts
+#EXTINF:-1,History_US
+http://62.210.104.34/live/majed/majed/7838.ts
+#EXTINF:-1,Investigation_Discovery_HD-US
+http://62.210.104.34/live/majed/majed/7839.ts
+#EXTINF:-1,Nat_Geo_HD-US
+http://62.210.104.34/live/majed/majed/7842.ts
+#EXTINF:-1,NBA_HD-US
+http://62.210.104.34/live/majed/majed/7843.ts
+#EXTINF:-1,NBC_Sports_Network_HD-US
+http://62.210.104.34/live/majed/majed/7844.ts
+#EXTINF:-1,NHL_Network_HD-US
+http://62.210.104.34/live/majed/majed/7847.ts
+#EXTINF:-1,Showtime-US
+http://62.210.104.34/live/majed/majed/7848.ts
+#EXTINF:-1,Sports_Net_360_HD-US
+http://62.210.104.34/live/majed/majed/7849.ts
+#EXTINF:-1,Sports_Net_One_HD-US
+http://62.210.104.34/live/majed/majed/7850.ts
+#EXTINF:-1,Sports_Net_Ontario_HD-US
+http://62.210.104.34/live/majed/majed/7851.ts
+#EXTINF:-1,Sports_Net_World_HD-US
+http://62.210.104.34/live/majed/majed/7852.ts
+#EXTINF:-1,Tennis_Channel_HD-US
+http://62.210.104.34/live/majed/majed/7856.ts
+#EXTINF:-1,TSN_1_HD-CA
+http://62.210.104.34/live/majed/majed/7858.ts
+#EXTINF:-1,TSN_2_HD-CA
+http://62.210.104.34/live/majed/majed/7859.ts
+#EXTINF:-1,TSN_3_HD-CA
+http://62.210.104.34/live/majed/majed/7860.ts
+#EXTINF:-1,TSN_4_HD-CA
+http://62.210.104.34/live/majed/majed/7861.ts
+#EXTINF:-1,TSN_5_HD-CA
+http://62.210.104.34/live/majed/majed/7862.ts
+#EXTINF:-1,ABC_News-US
+http://62.210.104.34/live/majed/majed/7864.ts
+#EXTINF:-1,Animal_Planet_HD-US
+http://62.210.104.34/live/majed/majed/7865.ts
+#EXTINF:-1,BLOOMBERG-US
+http://62.210.104.34/live/majed/majed/7866.ts
+#EXTINF:-1,CBS_News-US
+http://62.210.104.34/live/majed/majed/7868.ts
+#EXTINF:-1,CW_HD-US
+http://62.210.104.34/live/majed/majed/7869.ts
+#EXTINF:-1,Investigation_Discovery-US
+http://62.210.104.34/live/majed/majed/7875.ts
+#EXTINF:-1,Cartoon_Network-US
+http://62.210.104.34/live/majed/majed/7876.ts
+#EXTINF:-1,TBS_HD-US
+http://62.210.104.34/live/majed/majed/7880.ts
+#EXTINF:-1,USA_NETWORK_HD-US
+http://62.210.104.34/live/majed/majed/7881.ts
+#EXTINF:-1,Golf_HD-US
+http://62.210.104.34/live/majed/majed/7884.ts
+#EXTINF:-1,PT: TVI_24
+http://62.210.104.34/live/majed/majed/3521.ts
+#EXTINF:-1,PT: TV_SERIES
+http://62.210.104.34/live/majed/majed/3522.ts
+#EXTINF:-1,PT: TV_GLOBO
+http://62.210.104.34/live/majed/majed/3523.ts
+#EXTINF:-1,PT: TV_CINE_4_HD
+http://62.210.104.34/live/majed/majed/3524.ts
+#EXTINF:-1,PT: TV_CINE_3
+http://62.210.104.34/live/majed/majed/3525.ts
+#EXTINF:-1,PT: TV_CINE_2
+http://62.210.104.34/live/majed/majed/3526.ts
+#EXTINF:-1,PT: TV_CINE_1_HD
+http://62.210.104.34/live/majed/majed/3527.ts
+#EXTINF:-1,PT: EuroSport_2
+http://62.210.104.34/live/majed/majed/3506.ts
+#EXTINF:-1,PT: SPORTING_TV
+http://62.210.104.34/live/majed/majed/3528.ts
+#EXTINF:-1,PT: SPORT_TV_5_HD
+http://62.210.104.34/live/majed/majed/3507.ts
+#EXTINF:-1,PT: SPORT_TV_4_HD
+http://62.210.104.34/live/majed/majed/3508.ts
+#EXTINF:-1,PT: SPORT_TV_3_HD
+http://62.210.104.34/live/majed/majed/3509.ts
+#EXTINF:-1,PT: SPORT_TV2_HD
+http://62.210.104.34/live/majed/majed/3510.ts
+#EXTINF:-1,PT: SPORT_TV_1_HD
+http://62.210.104.34/live/majed/majed/3511.ts
+#EXTINF:-1,PT: SIC_NOTICIAS
+http://62.210.104.34/live/majed/majed/3512.ts
+#EXTINF:-1,PT: SIC_CARAS
+http://62.210.104.34/live/majed/majed/3529.ts
+#EXTINF:-1,PT: SIC
+http://62.210.104.34/live/majed/majed/3513.ts
+#EXTINF:-1,PT: Cine_Mundo
+http://62.210.104.34/live/majed/majed/3520.ts
+#EXTINF:-1,PT: RTP_memoria
+http://62.210.104.34/live/majed/majed/3519.ts
+#EXTINF:-1,PT: SIC_K
+http://62.210.104.34/live/majed/majed/3514.ts
+#EXTINF:-1,PT: Sport_TV+
+http://62.210.104.34/live/majed/majed/3515.ts
+#EXTINF:-1,PT: RTP_2
+http://62.210.104.34/live/majed/majed/3518.ts
+#EXTINF:-1,PT: RTP_1
+http://62.210.104.34/live/majed/majed/3517.ts
+#EXTINF:-1,PT: TV_Record
+http://62.210.104.34/live/majed/majed/3530.ts
+#EXTINF:-1,PT: PORTO_CANAL
+http://62.210.104.34/live/majed/majed/3516.ts
+#EXTINF:-1,PT: ODISSEIA
+http://62.210.104.34/live/majed/majed/3531.ts
+#EXTINF:-1,PT: MTV
+http://62.210.104.34/live/majed/majed/3532.ts
+#EXTINF:-1,PT: FOX_Movies
+http://62.210.104.34/live/majed/majed/3533.ts
+#EXTINF:-1,PT: Hollywood_HD
+http://62.210.104.34/live/majed/majed/3534.ts
+#EXTINF:-1,PT: HISTORIA
+http://62.210.104.34/live/majed/majed/3535.ts
+#EXTINF:-1,PT: FOX_Comedy
+http://62.210.104.34/live/majed/majed/3536.ts
+#EXTINF:-1,PT: FOX HD_meohd
+http://62.210.104.34/live/majed/majed/3537.ts
+#EXTINF:-1,PT: EUROSPORT
+http://62.210.104.34/live/majed/majed/3538.ts
+#EXTINF:-1,PT: DISCOVERY_CHANNEL
+http://62.210.104.34/live/majed/majed/3539.ts
+#EXTINF:-1,PT: AXN_HD_meohd
+http://62.210.104.34/live/majed/majed/3540.ts
+#EXTINF:-1,PT: TVI_Reality
+http://62.210.104.34/live/majed/majed/3504.ts
+#EXTINF:-1,------ ? ASIA-INDIAN ? ------
+http://62.210.104.34/live/majed/majed/2805.ts
+#EXTINF:-1,ASIA: B4U_Plus
+http://62.210.104.34/live/majed/majed/2646.ts
+#EXTINF:-1,ASIA: B4U_Movie
+http://62.210.104.34/live/majed/majed/2648.ts
+#EXTINF:-1,ASIA: B4U_Aflem
+http://62.210.104.34/live/majed/majed/1988.ts
+#EXTINF:-1,ASIA: B4U_Music
+http://62.210.104.34/live/majed/majed/1967.ts
+#EXTINF:-1,ASIA: ATHAVAN
+http://62.210.104.34/live/majed/majed/2674.ts
+#EXTINF:-1,ASIA: IBC_TAMIL_TV
+http://62.210.104.34/live/majed/majed/2682.ts
+#EXTINF:-1,ASIA: TEN_Sports
+http://62.210.104.34/live/majed/majed/2688.ts
+#EXTINF:-1,ASIA: TV_HD
+http://62.210.104.34/live/majed/majed/2709.ts
+#EXTINF:-1,ASIA: ZEE_BANGLA_CINEMA
+http://62.210.104.34/live/majed/majed/2691.ts
+#EXTINF:-1,ASIA: ZEE_Bollywood
+http://62.210.104.34/live/majed/majed/2692.ts
+#EXTINF:-1,ASIA: ZEE_Alwan
+http://62.210.104.34/live/majed/majed/2693.ts
+#EXTINF:-1,ASIA: ZEE_AFLEM
+http://62.210.104.34/live/majed/majed/2694.ts
+#EXTINF:-1,ASIA: ZEE_TAMIL
+http://62.210.104.34/live/majed/majed/2707.ts
+#EXTINF:-1,ASIA: ZEE_Tv_Us
+http://62.210.104.34/live/majed/majed/1971.ts
+#EXTINF:-1,ASIA: ZEE_Cinema_HD_US
+http://62.210.104.34/live/majed/majed/1985.ts
+#EXTINF:-1,IN_Sony_max2
+http://62.210.104.34/live/majed/majed/1955.ts
+#EXTINF:-1,IN_SonY_Us
+http://62.210.104.34/live/majed/majed/1956.ts
+#EXTINF:-1,IN_Ktv
+http://62.210.104.34/live/majed/majed/1964.ts
+#EXTINF:-1,IN_Atn_Bangla
+http://62.210.104.34/live/majed/majed/1968.ts
+#EXTINF:-1,IN_Channle_Bangla
+http://62.210.104.34/live/majed/majed/1969.ts
+#EXTINF:-1,IN_Aajtak_news
+http://62.210.104.34/live/majed/majed/1970.ts
+#EXTINF:-1,IN_willowa
+http://62.210.104.34/live/majed/majed/1972.ts
+#EXTINF:-1,IN_VijaY
+http://62.210.104.34/live/majed/majed/1974.ts
+#EXTINF:-1,IN_Star_Plus_HD
+http://62.210.104.34/live/majed/majed/1975.ts
+#EXTINF:-1,IN_9XM
+http://62.210.104.34/live/majed/majed/1980.ts
+#EXTINF:-1,IN_Gimeny_Comedy
+http://62.210.104.34/live/majed/majed/1987.ts
+#EXTINF:-1,IN_Mega
+http://62.210.104.34/live/majed/majed/1989.ts
+#EXTINF:-1,IN_Mega 24
+http://62.210.104.34/live/majed/majed/1990.ts
+#EXTINF:-1,-? Greece ?
+http://62.210.104.34/live/majed/majed/2806.ts
+#EXTINF:-1,GR: EPT_1
+http://62.210.104.34/live/majed/majed/2544.ts
+#EXTINF:-1,GR: EPT_2
+http://62.210.104.34/live/majed/majed/2545.ts
+#EXTINF:-1,GR: Ert_HD
+http://62.210.104.34/live/majed/majed/2546.ts
+#EXTINF:-1,GR: Discovery_showcase
+http://62.210.104.34/live/majed/majed/2547.ts
+#EXTINF:-1,GR: Discovery_science
+http://62.210.104.34/live/majed/majed/2548.ts
+#EXTINF:-1,GR: Discovery
+http://62.210.104.34/live/majed/majed/2549.ts
+#EXTINF:-1,GR: Animal_planet
+http://62.210.104.34/live/majed/majed/2550.ts
+#EXTINF:-1,GR: MEGA
+http://62.210.104.34/live/majed/majed/2553.ts
+ 
