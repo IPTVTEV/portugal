@@ -1,3 +1,114 @@
 #EXTM3U
-#EXTINF:-1,Sport TV 1
-http://89.248.168.18:8081/live/sporttv1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDE3IDk6MDk6MTAgUE0maGFzaF92YWx1ZT1RcE5BOXoza1Vtbk1OOXNaL2FYV1pnPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE2Mi4xNTguNzkuNyZzdHJtX2xlbj0xNg==
+#EXTINF:-1,#### PT ########
+http://46.105.115.37:8000/live/iptv1790/179065287/640.ts
+#EXTINF:-1,PT EUROSPORT 1
+http://46.105.115.37:8000/live/iptv1790/179065287/690.ts
+#EXTINF:-1,PT BBC
+http://46.105.115.37:8000/live/iptv1790/179065287/694.ts
+#EXTINF:-1,PT AXN White
+http://46.105.115.37:8000/live/iptv1790/179065287/695.ts
+#EXTINF:-1,PT: TVI
+http://46.105.115.37:8000/live/iptv1790/179065287/417.ts
+#EXTINF:-1,PT: TVCine 1
+http://46.105.115.37:8000/live/iptv1790/179065287/421.ts
+#EXTINF:-1,PT: TVCine 2
+http://46.105.115.37:8000/live/iptv1790/179065287/420.ts
+#EXTINF:-1,PT: TVCine 3
+http://46.105.115.37:8000/live/iptv1790/179065287/419.ts
+#EXTINF:-1,PT: TVCine 4
+http://46.105.115.37:8000/live/iptv1790/179065287/418.ts
+#EXTINF:-1,PT: TV Record
+http://46.105.115.37:8000/live/iptv1790/179065287/422.ts
+#EXTINF:-1,PT: Syfy
+http://46.105.115.37:8000/live/iptv1790/179065287/423.ts
+#EXTINF:-1,PT: SIC Noticias
+http://46.105.115.37:8000/live/iptv1790/179065287/424.ts
+#EXTINF:-1,PT: SIC K
+http://46.105.115.37:8000/live/iptv1790/179065287/425.ts
+#EXTINF:-1,PT: SIC
+http://46.105.115.37:8000/live/iptv1790/179065287/426.ts
+#EXTINF:-1,PT: RTP 1
+http://46.105.115.37:8000/live/iptv1790/179065287/428.ts
+#EXTINF:-1,PT: RTP 2
+http://46.105.115.37:8000/live/iptv1790/179065287/427.ts
+#EXTINF:-1,PT: PFC
+http://46.105.115.37:8000/live/iptv1790/179065287/429.ts
+#EXTINF:-1,PT: Odisseia
+http://46.105.115.37:8000/live/iptv1790/179065287/430.ts
+#EXTINF:-1,PT: Nat. Geographic
+http://46.105.115.37:8000/live/iptv1790/179065287/431.ts
+#EXTINF:-1,PT: TV GLOBO PREMIUM
+http://46.105.115.37:8000/live/iptv1790/179065287/433.ts
+#EXTINF:-1,PT: FOX
+http://46.105.115.37:8000/live/iptv1790/179065287/434.ts
+#EXTINF:-1,PT: CM TV
+http://46.105.115.37:8000/live/iptv1790/179065287/436.ts
+#EXTINF:-1,PT: Canal Panda
+http://46.105.115.37:8000/live/iptv1790/179065287/438.ts
+#EXTINF:-1,PT: Canal Historia
+http://46.105.115.37:8000/live/iptv1790/179065287/439.ts
+#EXTINF:-1,PT: A BOLA TV
+http://46.105.115.37:8000/live/iptv1790/179065287/440.ts
+#EXTINF:-1,PT Benfica TV1
+http://46.105.115.37:8000/live/iptv1790/179065287/416.ts
+#EXTINF:-1,PT Benfica TV2
+http://46.105.115.37:8000/live/iptv1790/179065287/718.ts
+#EXTINF:-1,PT : Discovery Channel
+http://46.105.115.37:8000/live/iptv1790/179065287/442.ts
+#EXTINF:-1,PT : Cinemundo
+http://46.105.115.37:8000/live/iptv1790/179065287/443.ts
+#EXTINF:-1,PT Sport TV 1
+http://46.105.115.37:8000/live/iptv1790/179065287/895.ts
+#EXTINF:-1,PT Sport TV 2
+http://46.105.115.37:8000/live/iptv1790/179065287/415.ts
+#EXTINF:-1,PT Sport TV 4
+http://46.105.115.37:8000/live/iptv1790/179065287/832.ts
+#EXTINF:-1,PT Sport TV 3
+http://46.105.115.37:8000/live/iptv1790/179065287/833.ts
+
+#EXTINF:-1,●★●★PORTUGAL●★●★
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4404.ts
+#EXTINF:-1,TV CINE 1 HD
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4363.ts
+#EXTINF:-1,TV CINE 2 HD
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4362.ts
+#EXTINF:-1,PT_TVCINE_3_HD
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4361.ts
+#EXTINF:-1,PT_TVCINE_4_HD
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4360.ts
+#EXTINF:-1,DISCOVERY
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4359.ts
+#EXTINF:-1,HOLLYWOOD
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4378.ts
+#EXTINF:-1,PT_AXN_WHITE_HD
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4398.ts
+#EXTINF:-1,PT_AXN_HD
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4399.ts
+#EXTINF:-1,PT_AXN_BLACK_HD
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4400.ts
+#EXTINF:-1,PT_FOX_LIFE_HD
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4380.ts
+#EXTINF:-1,CINEMUNDO
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4388.ts
+#EXTINF:-1,SYFY
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4365.ts
+#EXTINF:-1,RTP1
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4405.ts
+#EXTINF:-1,RTP 2
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4406.ts
+#EXTINF:-1,TV_GLOBO
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4364.ts
+#EXTINF:-1,PT_CANAL_PANDA
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4390.ts
+#EXTINF:-1,ODESSEIA
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4373.ts
+#EXTINF:-1,SPORT_TV_1
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4371.ts
+#EXTINF:-1,SPORT_TV_2
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4370.ts
+#EXTINF:-1,SPORT.TV_3
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4369.ts
+#EXTINF:-1,SPORT TV 4
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4368.ts
+#EXTINF:-1,SPORT_TV_5
+http://hdliveiptv.mazian.info:7879/live/Karim/karim/4367.ts
