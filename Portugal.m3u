@@ -1,15 +1,122 @@
 #EXTM3U
-http://clientportalpro.com:2500/get.php?username=oDdELNOq5w&password=qbfhyQ9LrX&type=m3u
-http://sutverduz.com:8080/get.php?username=hAkTrQgElV&password=UzrUN67Kdh&type=m3u
-http://www.goldtv.al:8000/get.php?username=bbbbbb&password=bbbbbb&type=m3u
-http://217.23.4.192:7070/get.php?username=bob&password=bob&type=m3u
-http://pro-iptv.ddns.net:8080/get.php?username=12869&password=12869&type=m3u
-
-http://51.255.89.184:8080/get.php?username=715nad2309vc&password=1iyEB9qqti&type=m3u
-http://163.172.6.8:8000/get.php?username=asso1983&password=asso1983&type=m3u
-http://193.70.116.156:8080/get.php?username=gitti101260&password=tpQ4rI9Hub&type=m3u
-http://193.70.116.156:8080/get.php?username=gd5K4H4gcO&password=U11EYiyAgc&type=m3u
-http://93.190.143.200:15000/get.php?username=rszpnuvz&password=u8x0f5t1MN&type=m3u
-http://149.202.95.229:8000/get.php?username=fathi_loh&password=0657&type=m3u
-http://151.80.99.90:16000/get.php?username=KEBTON&password=12000888&type=m3u
-http://87.255.53.69:8002/playlist.m3u8
+http://163.172.50.189:8000/live/cabral/cabral/1946.ts
+#EXTINF:-1,RTP 1 HD
+http://163.172.50.189:8000/live/cabral/cabral/1405.ts
+#EXTINF:-1,RTP 1
+http://163.172.50.189:8000/live/cabral/cabral/1790.ts
+#EXTINF:-1,RTP 2 HD
+http://163.172.50.189:8000/live/cabral/cabral/1406.ts
+#EXTINF:-1,RTP 2
+http://163.172.50.189:8000/live/cabral/cabral/1407.ts
+#EXTINF:-1,RTP 3
+http://163.172.50.189:8000/live/cabral/cabral/1408.ts
+#EXTINF:-1,SIC HD
+http://163.172.50.189:8000/live/cabral/cabral/1409.ts
+#EXTINF:-1,SIC
+http://163.172.50.189:8000/live/cabral/cabral/1410.ts
+#EXTINF:-1,TVI ( sd )
+http://163.172.50.189:8000/live/cabral/cabral/1416.ts
+#EXTINF:-1,TVI HD
+http://163.172.50.189:8000/live/cabral/cabral/1413.ts
+#EXTINF:-1,●●●●●● INFORMAÇÃO ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1792.ts
+#EXTINF:-1,SIC NOTICIAS
+http://163.172.50.189:8000/live/cabral/cabral/1417.ts
+#EXTINF:-1,TVI 24
+http://163.172.50.189:8000/live/cabral/cabral/1418.ts
+#EXTINF:-1,CMTV
+http://163.172.50.189:8000/live/cabral/cabral/1419.ts
+#EXTINF:-1,PORTO CANAL
+http://163.172.50.189:8000/live/cabral/cabral/1420.ts
+#EXTINF:-1,CNN
+http://163.172.50.189:8000/live/cabral/cabral/1421.ts
+#EXTINF:-1,●●●●●● ENTRETENIMENTO ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1795.ts
+#EXTINF:-1,SIC RADICAL
+http://163.172.50.189:8000/live/cabral/cabral/1422.ts
+#EXTINF:-1,SIC MULHER
+http://163.172.50.189:8000/live/cabral/cabral/1423.ts
+#EXTINF:-1,SIC CARAS
+http://163.172.50.189:8000/live/cabral/cabral/1424.ts
+#EXTINF:-1,TVI FICCAO
+http://163.172.50.189:8000/live/cabral/cabral/1425.ts
+#EXTINF:-1,TVI REALITY
+http://163.172.50.189:8000/live/cabral/cabral/1426.ts
+#EXTINF:-1,24 KITCHEN HD
+http://163.172.50.189:8000/live/cabral/cabral/1427.ts
+#EXTINF:-1,CANAL Q
+http://163.172.50.189:8000/live/cabral/cabral/1428.ts
+#EXTINF:-1,●●●●●● DESPORTO ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1797.ts
+#EXTINF:-1,SPORT TV +
+http://163.172.50.189:8000/live/cabral/cabral/1430.ts
+#EXTINF:-1,SPORT TV + HD
+http://163.172.50.189:8000/live/cabral/cabral/1668.ts
+#EXTINF:-1,SPORT TV 1
+http://163.172.50.189:8000/live/cabral/cabral/1944.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://163.172.50.189:8000/live/cabral/cabral/1431.ts
+#EXTINF:-1,Sport TV 1 HD (ALT1)
+http://163.172.50.189:8000/live/cabral/cabral/1933.ts
+#EXTINF:-1,SPORT TV 1 FULL HD
+http://163.172.50.189:8000/live/cabral/cabral/1669.ts
+#EXTINF:-1,SPORT TV 2 FULL HD
+http://163.172.50.189:8000/live/cabral/cabral/1670.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://163.172.50.189:8000/live/cabral/cabral/1436.ts
+#EXTINF:-1,SPORT TV 2
+http://163.172.50.189:8000/live/cabral/cabral/1437.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://163.172.50.189:8000/live/cabral/cabral/1439.ts
+#EXTINF:-1,SPORT TV 3 FULL HD
+http://163.172.50.189:8000/live/cabral/cabral/1671.ts
+#EXTINF:-1,SPORT TV 3
+http://163.172.50.189:8000/live/cabral/cabral/1440.ts
+#EXTINF:-1,SPORT TV 4
+http://163.172.50.189:8000/live/cabral/cabral/1441.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://163.172.50.189:8000/live/cabral/cabral/1672.ts
+#EXTINF:-1,SPORT TV 5
+http://163.172.50.189:8000/live/cabral/cabral/1442.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://163.172.50.189:8000/live/cabral/cabral/1673.ts
+#EXTINF:-1,BTV 1 HD
+http://163.172.50.189:8000/live/cabral/cabral/1443.ts
+#EXTINF:-1,BTV 1 FULL HD
+http://163.172.50.189:8000/live/cabral/cabral/1675.ts
+#EXTINF:-1,BTV 1
+http://163.172.50.189:8000/live/cabral/cabral/1674.ts
+#EXTINF:-1,SPORTING TV
+http://163.172.50.189:8000/live/cabral/cabral/1448.ts
+#EXTINF:-1,A BOLA TV
+http://163.172.50.189:8000/live/cabral/cabral/1449.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://163.172.50.189:8000/live/cabral/cabral/1450.ts
+#EXTINF:-1,EUROSPORT
+http://163.172.50.189:8000/live/cabral/cabral/1451.ts
+#EXTINF:-1,EUROSPORT 2
+http://163.172.50.189:8000/live/cabral/cabral/1452.ts
+#EXTINF:-1,EUROSPORT 2 XTRA HD
+http://163.172.50.189:8000/live/cabral/cabral/1453.ts
+#EXTINF:-1,CACAVISION
+http://163.172.50.189:8000/live/cabral/cabral/1454.ts
+#EXTINF:-1,CACA E PESCA
+http://163.172.50.189:8000/live/cabral/cabral/1455.ts
+#EXTINF:-1,TOROS TV
+http://163.172.50.189:8000/live/cabral/cabral/1456.ts
+#EXTINF:-1,KOMBAT SPORT
+http://163.172.50.189:8000/live/cabral/cabral/1457.ts
+#EXTINF:-1,REAL MADRID TV
+http://163.172.50.189:8000/live/cabral/cabral/1458.ts
+#EXTINF:-1,CHELSEA TV
+http://163.172.50.189:8000/live/cabral/cabral/1459.ts
+#EXTINF:-1,MOTORVISION
+http://163.172.50.189:8000/live/cabral/cabral/1460.ts
+#EXTINF:-1,MOTORS TV
+http://163.172.50.189:8000/live/cabral/cabral/1461.ts
+#EXTINF:-1,FUEL TV
+http://163.172.50.189:8000/live/cabral/cabral/1462.ts
+#EXTINF:-1,FIGHT NETWORK
+http://163.172.50.189:8000/live/cabral/cabral/1463.ts
+#EXTINF:-1,PFC
+http://163.172.50.189:8000/live/cabral/cabral/1464.ts
