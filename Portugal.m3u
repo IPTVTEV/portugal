@@ -1,114 +1,479 @@
 #EXTM3U
-#EXTINF:-1,#### PT ########
-http://46.105.115.37:8000/live/iptv1790/179065287/640.ts
-#EXTINF:-1,PT EUROSPORT 1
-http://46.105.115.37:8000/live/iptv1790/179065287/690.ts
-#EXTINF:-1,PT BBC
-http://46.105.115.37:8000/live/iptv1790/179065287/694.ts
-#EXTINF:-1,PT AXN White
-http://46.105.115.37:8000/live/iptv1790/179065287/695.ts
-#EXTINF:-1,PT: TVI
-http://46.105.115.37:8000/live/iptv1790/179065287/417.ts
-#EXTINF:-1,PT: TVCine 1
-http://46.105.115.37:8000/live/iptv1790/179065287/421.ts
-#EXTINF:-1,PT: TVCine 2
-http://46.105.115.37:8000/live/iptv1790/179065287/420.ts
-#EXTINF:-1,PT: TVCine 3
-http://46.105.115.37:8000/live/iptv1790/179065287/419.ts
-#EXTINF:-1,PT: TVCine 4
-http://46.105.115.37:8000/live/iptv1790/179065287/418.ts
-#EXTINF:-1,PT: TV Record
-http://46.105.115.37:8000/live/iptv1790/179065287/422.ts
-#EXTINF:-1,PT: Syfy
-http://46.105.115.37:8000/live/iptv1790/179065287/423.ts
-#EXTINF:-1,PT: SIC Noticias
-http://46.105.115.37:8000/live/iptv1790/179065287/424.ts
-#EXTINF:-1,PT: SIC K
-http://46.105.115.37:8000/live/iptv1790/179065287/425.ts
-#EXTINF:-1,PT: SIC
-http://46.105.115.37:8000/live/iptv1790/179065287/426.ts
-#EXTINF:-1,PT: RTP 1
-http://46.105.115.37:8000/live/iptv1790/179065287/428.ts
-#EXTINF:-1,PT: RTP 2
-http://46.105.115.37:8000/live/iptv1790/179065287/427.ts
-#EXTINF:-1,PT: PFC
-http://46.105.115.37:8000/live/iptv1790/179065287/429.ts
-#EXTINF:-1,PT: Odisseia
-http://46.105.115.37:8000/live/iptv1790/179065287/430.ts
-#EXTINF:-1,PT: Nat. Geographic
-http://46.105.115.37:8000/live/iptv1790/179065287/431.ts
-#EXTINF:-1,PT: TV GLOBO PREMIUM
-http://46.105.115.37:8000/live/iptv1790/179065287/433.ts
-#EXTINF:-1,PT: FOX
-http://46.105.115.37:8000/live/iptv1790/179065287/434.ts
-#EXTINF:-1,PT: CM TV
-http://46.105.115.37:8000/live/iptv1790/179065287/436.ts
-#EXTINF:-1,PT: Canal Panda
-http://46.105.115.37:8000/live/iptv1790/179065287/438.ts
-#EXTINF:-1,PT: Canal Historia
-http://46.105.115.37:8000/live/iptv1790/179065287/439.ts
-#EXTINF:-1,PT: A BOLA TV
-http://46.105.115.37:8000/live/iptv1790/179065287/440.ts
-#EXTINF:-1,PT Benfica TV1
-http://46.105.115.37:8000/live/iptv1790/179065287/416.ts
-#EXTINF:-1,PT Benfica TV2
-http://46.105.115.37:8000/live/iptv1790/179065287/718.ts
-#EXTINF:-1,PT : Discovery Channel
-http://46.105.115.37:8000/live/iptv1790/179065287/442.ts
-#EXTINF:-1,PT : Cinemundo
-http://46.105.115.37:8000/live/iptv1790/179065287/443.ts
-#EXTINF:-1,PT Sport TV 1
-http://46.105.115.37:8000/live/iptv1790/179065287/895.ts
-#EXTINF:-1,PT Sport TV 2
-http://46.105.115.37:8000/live/iptv1790/179065287/415.ts
-#EXTINF:-1,PT Sport TV 4
-http://46.105.115.37:8000/live/iptv1790/179065287/832.ts
-#EXTINF:-1,PT Sport TV 3
-http://46.105.115.37:8000/live/iptv1790/179065287/833.ts
-
-#EXTINF:-1,●★●★PORTUGAL●★●★
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4404.ts
-#EXTINF:-1,TV CINE 1 HD
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4363.ts
-#EXTINF:-1,TV CINE 2 HD
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4362.ts
-#EXTINF:-1,PT_TVCINE_3_HD
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4361.ts
-#EXTINF:-1,PT_TVCINE_4_HD
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4360.ts
-#EXTINF:-1,DISCOVERY
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4359.ts
-#EXTINF:-1,HOLLYWOOD
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4378.ts
-#EXTINF:-1,PT_AXN_WHITE_HD
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4398.ts
-#EXTINF:-1,PT_AXN_HD
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4399.ts
-#EXTINF:-1,PT_AXN_BLACK_HD
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4400.ts
-#EXTINF:-1,PT_FOX_LIFE_HD
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4380.ts
-#EXTINF:-1,CINEMUNDO
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4388.ts
-#EXTINF:-1,SYFY
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4365.ts
-#EXTINF:-1,RTP1
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4405.ts
-#EXTINF:-1,RTP 2
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4406.ts
-#EXTINF:-1,TV_GLOBO
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4364.ts
-#EXTINF:-1,PT_CANAL_PANDA
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4390.ts
-#EXTINF:-1,ODESSEIA
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4373.ts
-#EXTINF:-1,SPORT_TV_1
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4371.ts
-#EXTINF:-1,SPORT_TV_2
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4370.ts
-#EXTINF:-1,SPORT.TV_3
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4369.ts
-#EXTINF:-1,SPORT TV 4
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4368.ts
-#EXTINF:-1,SPORT_TV_5
-http://hdliveiptv.mazian.info:7879/live/Karim/karim/4367.ts
+#EXTINF:-1,|FR| TF1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9208.ts
+#EXTINF:-1,|FR|FRANCE 2
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9209.ts
+#EXTINF:-1,|FR|FRANCE 3
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9210.ts
+#EXTINF:-1,|FR|FRANCE 4
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9211.ts
+#EXTINF:-1,|FR|FRANCE 5
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9212.ts
+#EXTINF:-1,|FR|FRANCE O
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9213.ts
+#EXTINF:-1,|FR| W9
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9214.ts
+#EXTINF:-1,|FR| TEVA
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9215.ts
+#EXTINF:-1,|FR| TMC
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9216.ts
+#EXTINF:-1,|FR| NT1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9217.ts
+#EXTINF:-1,|FR| HD1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9218.ts
+#EXTINF:-1,|FR| 6TER
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9219.ts
+#EXTINF:-1,|FR| RTL9
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9220.ts
+#EXTINF:-1,|FR| M6
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9221.ts
+#EXTINF:-1,|FR| NRJ12
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9222.ts
+#EXTINF:-1,|FR|TV BREIZH
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9223.ts
+#EXTINF:-1,|FR| SYFY HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9224.ts
+#EXTINF:-1,|FR| GONG
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9225.ts
+#EXTINF:-1,|FR| 13EME RUE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9226.ts
+#EXTINF:-1,|FR| SERIE CLUB
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9227.ts
+#EXTINF:-1,|FR|D8
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9228.ts
+#EXTINF:-1,|FR| D17
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9229.ts
+#EXTINF:-1,|FR|PARIS PREMIERE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9230.ts
+#EXTINF:-1,|FR| COMEDIE+
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9231.ts
+#EXTINF:-1,|FR|CHERIE 25
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9232.ts
+#EXTINF:-1,|FR|RTS Un HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9234.ts
+#EXTINF:-1,|FR|RTS Deux HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9235.ts
+#EXTINF:-1,|FR| E! Entertainment
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9236.ts
+#EXTINF:-1,|FR| AB1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13595.ts
+#EXTINF:-1,|FR| AB1 HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13596.ts
+#EXTINF:-1,|FR| COMEDIE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13611.ts
+#EXTINF:-1,|FR| Comedie Plus
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13612.ts
+#EXTINF:-1,|FR| I_TELE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13604.ts
+#EXTINF:-1,|FR| LA CHAINE NORMANDIE HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13605.ts
+#EXTINF:-1,|FR| M6 MUSIC HITS
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13606.ts
+#EXTINF:-1,|FR| TV5 MONDE HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13608.ts
+#EXTINF:-1,|FR| VIRGIN TV
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13609.ts
+#EXTINF:-1,========||| CANAUX FRANCE CINEMA|||========
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9237.ts
+#EXTINF:-1,|FR| CANAL
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9238.ts
+#EXTINF:-1,|FR|CANAL CINEMA
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9239.ts
+#EXTINF:-1,|FR| CANAL FAMILY
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9240.ts
+#EXTINF:-1,|FR|CANAL DECALE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9241.ts
+#EXTINF:-1,|FR| CANAL SERIES
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9242.ts
+#EXTINF:-1,|FR| CINE  FAMIZ
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9243.ts
+#EXTINF:-1,|FR| CINE FRISSON
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9244.ts
+#EXTINF:-1,|FR| CINE  PREMIER
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9245.ts
+#EXTINF:-1,|FR| CINE  EMOTION
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9246.ts
+#EXTINF:-1,|FR| OCS MAX
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9247.ts
+#EXTINF:-1,|FR| OCS CITY HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9248.ts
+#EXTINF:-1,|FR|OCS GEANTS
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9249.ts
+#EXTINF:-1,|FR| OCS CHOC HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9250.ts
+#EXTINF:-1,|FR|TCM CINEMA
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9251.ts
+#EXTINF:-1,|FR|PARAMOUNT CHANNEL
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9252.ts
+#EXTINF:-1,|FR|ACTION
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9253.ts
+#EXTINF:-1,|FR|CINE POLAR
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9254.ts
+#EXTINF:-1,|FR|CINE FX
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9255.ts
+#EXTINF:-1,|FR| CINE  CLASSIC
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9256.ts
+#EXTINF:-1,|FR| A LA CARTE 1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13613.ts
+#EXTINF:-1,|FR| A LA CARTE 2
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13614.ts
+#EXTINF:-1,|FR| A LA CARTE 3
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13615.ts
+#EXTINF:-1,|FR| A LA CARTE 4
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13616.ts
+#EXTINF:-1,|FR| A LA CARTE 5
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13617.ts
+#EXTINF:-1,|FR| A LA CARTE 6
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13618.ts
+#EXTINF:-1,|FR| A LA CARTE 7
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13619.ts
+#EXTINF:-1,|FR| A LA CARTE 8
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13620.ts
+#EXTINF:-1,|FR| A LA CARTE 9
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13621.ts
+#EXTINF:-1,|FR| A LA CARTE 10
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13622.ts
+#EXTINF:-1,========||| CANAUX FRANCE ENFANTS|||========
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9273.ts
+#EXTINF:-1,|FR| DISNEY CHANEL
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9274.ts
+#EXTINF:-1,|FR|PIWI
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9276.ts
+#EXTINF:-1,|FR|Disney XD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9277.ts
+#EXTINF:-1,|FR| DISNEY JUNIOR
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9278.ts
+#EXTINF:-1,|FR| DISNEY CINEMA
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9279.ts
+#EXTINF:-1,|FR|NICKLODEON JUNIOR
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9281.ts
+#EXTINF:-1,|FR|F2: Tiji
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9283.ts
+#EXTINF:-1,|FR| GULLI
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9284.ts
+#EXTINF:-1,|FR| CARTOON NETWORK
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9285.ts
+#EXTINF:-1,|FR| BOING
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9286.ts
+#EXTINF:-1,|FR|F.BOOMERANG
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9287.ts
+#EXTINF:-1,|FR|Canal J
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9288.ts
+#EXTINF:-1,|FR|F.TELETOON
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9289.ts
+#EXTINF:-1,|FR| MANGAS
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9290.ts
+#EXTINF:-1,========||| CANAUX FRANCE INFORMATION|||========
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9292.ts
+#EXTINF:-1,|FR|FRANCE 24
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9294.ts
+#EXTINF:-1,|FR| BFM TV
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9295.ts
+#EXTINF:-1,========||| CANAUX FRANCE CULTURE|||========
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9296.ts
+#EXTINF:-1,|FR  |DISCOVERY HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9300.ts
+#EXTINF:-1,|FR| DISCOVERY SCIENCE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9301.ts
+#EXTINF:-1,|FR|RMC DECOUVERTE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9302.ts
+#EXTINF:-1,|FR| SCIENCES & VIE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9303.ts
+#EXTINF:-1,|FR| NAT GEO
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9304.ts
+#EXTINF:-1,|FR| NATGEO WILD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9305.ts
+#EXTINF:-1,|FR| PLANETE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9306.ts
+#EXTINF:-1,|FR|PLANETE CI
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9307.ts
+#EXTINF:-1,|FR|PLANETE A&E
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9308.ts
+#EXTINF:-1,|FR| ANIMAUX HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9309.ts
+#EXTINF:-1,|FR|USHUAIA TV
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9310.ts
+#EXTINF:-1,|FR| CHASSE & PECHE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9311.ts
+#EXTINF:-1,|FR|ARTE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9312.ts
+#EXTINF:-1,|FR| TOUTE L'HISTOIRE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9313.ts
+#EXTINF:-1,|FR|EQUIDIA LIVE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9314.ts
+#EXTINF:-1,|FR| CANAL SAVOIR
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13602.ts
+#EXTINF:-1,|FR| Histoire
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13603.ts
+#EXTINF:-1,|FR| Planete Thalassa HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13607.ts
+#EXTINF:-1,|FR| Weo HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13610.ts
+#EXTINF:-1,========||| CANAUX FRANCE SPORT |||========
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9316.ts
+#EXTINF:-1,|FR| CANAL SPORT HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9318.ts
+#EXTINF:-1,|FR| L'EQUIPE21
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9326.ts
+#EXTINF:-1,|FR| EUROSPORT 1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9327.ts
+#EXTINF:-1,|FR| EUROSPORT 2
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9328.ts
+#EXTINF:-1,|FR|INFOSPORT
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9330.ts
+#EXTINF:-1,|FR| MA CHAINE SPORT
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9331.ts
+#EXTINF:-1,|FR| SFR_SPORT_1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13624.ts
+#EXTINF:-1,|FR| SFR_SPORT_2
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13625.ts
+#EXTINF:-1,|FR| SFR_SPORT_3
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13626.ts
+#EXTINF:-1,|FR| Foot 24
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13623.ts
+#EXTINF:-1,|FR|BeIN SPORTS 1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9321.ts
+#EXTINF:-1,|FR|BEIN SPORT 2
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9324.ts
+#EXTINF:-1,|FR|BEINSPORT 3
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9325.ts
+#EXTINF:-1,|FR| BEIN MAX 4
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13597.ts
+#EXTINF:-1,|FR| BEIN MAX 5
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13598.ts
+#EXTINF:-1,|FR| BEIN MAX 6
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13599.ts
+#EXTINF:-1,|FR| BEIN MAX 7
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13600.ts
+#EXTINF:-1,|FR| BEIN MAX 8
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/13601.ts
+#EXTINF:-1,========||| CANAL SPAIN |||========
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9054.ts
+#EXTINF:-1,[ES] C  24 Horas
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10200.ts
+#EXTINF:-1,[ES] C  A&E
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10199.ts
+#EXTINF:-1,[ES] C  Accion HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10198.ts
+#EXTINF:-1,[ES] C  AMC
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10197.ts
+#EXTINF:-1,[ES] C  AXN
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10196.ts
+#EXTINF:-1,[ES] C  AXN White
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10195.ts
+#EXTINF:-1,[ES] C  Canal Cocina
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10194.ts
+#EXTINF:-1,[ES] C  Canal Decasa
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10193.ts
+#EXTINF:-1,[ES] C  Canal Odisea
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10192.ts
+#EXTINF:-1,[ES] C  Caza & Pesca
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10191.ts
+#EXTINF:-1,[ES] C  Clan TVE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10190.ts
+#EXTINF:-1,[ES] C  Comedia
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10189.ts
+#EXTINF:-1,[ES] C  Comedy Central
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10188.ts
+#EXTINF:-1,[ES] C  Cosmo
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10187.ts
+#EXTINF:-1,[ES] C  Crimen Inves
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10186.ts
+#EXTINF:-1,[ES] C  Dcine Espanol
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10185.ts
+#EXTINF:-1,[ES] C  Dcine HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10184.ts
+#EXTINF:-1,[ES] C  Deportes
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10183.ts
+#EXTINF:-1,[ES] C  Discovery
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10182.ts
+#EXTINF:-1,[ES] C  Disney Channel
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10181.ts
+#EXTINF:-1,[ES] C  Disney Junior
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10180.ts
+#EXTINF:-1,[ES] C  Disney XD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10179.ts
+#EXTINF:-1,[ES] C  Estrenos
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10178.ts
+#EXTINF:-1,[ES] C  Eurosport 1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10177.ts
+#EXTINF:-1,[ES] C  F.TBOL HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10176.ts
+#EXTINF:-1,[ES] C  FDF
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10175.ts
+#EXTINF:-1,[ES] C  Fox HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10174.ts
+#EXTINF:-1,[ES] C  Fox Life
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10173.ts
+#EXTINF:-1,[ES] C  Fox News
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10172.ts
+#EXTINF:-1,[ES] C  Golf
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10171.ts
+#EXTINF:-1,[ES] C  Hollywood
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10170.ts
+#EXTINF:-1,[ES] C  Iberalia TV
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10169.ts
+#EXTINF:-1,[ES] C  La Sexta
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10168.ts
+#EXTINF:-1,[ES] C  La1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10167.ts
+#EXTINF:-1,[ES] C  La2
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10166.ts
+#EXTINF:-1,[ES] C  Los40
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10165.ts
+#EXTINF:-1,[ES] C  Moto GP
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10164.ts
+#EXTINF:-1,[ES] C  Moviestar F1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10163.ts
+#EXTINF:-1,[ES] C  Nat Geo
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10162.ts
+#EXTINF:-1,[ES] C  Nat Geo Wild
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10161.ts
+#EXTINF:-1,[ES] C  Nonstopeople
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10160.ts
+#EXTINF:-1,[ES] C  Nova
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10159.ts
+#EXTINF:-1,[ES] C  Series Xtra
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10158.ts
+#EXTINF:-1,[ES] C  SyFy
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10157.ts
+#EXTINF:-1,[ES] C  TCM
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10156.ts
+#EXTINF:-1,[ES] C  Telecinco
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10155.ts
+#EXTINF:-1,[ES] C  Teledeporte
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10154.ts
+#EXTINF:-1,[ES] C  TNT
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10153.ts
+#EXTINF:-1,[ES] C  Viajar
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10152.ts
+#EXTINF:-1,[ES] C  Xtra
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10151.ts
+#EXTINF:-1,[ES] C TVE International
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/10150.ts
+#EXTINF:-1,---- Portoghesi ----
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/9707.ts
+#EXTINF:-1,[PT] A Bola TV
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14684.ts
+#EXTINF:-1,[PT] AMC
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14685.ts
+#EXTINF:-1,[PT] ARTV
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14686.ts
+#EXTINF:-1,[PT] AXN Black HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14687.ts
+#EXTINF:-1,[PT] AXN HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14688.ts
+#EXTINF:-1,[PT] AXN WHITE HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14689.ts
+#EXTINF:-1,[PT] Baby TV
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14690.ts
+#EXTINF:-1,[PT] Benfica Tv 1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14691.ts
+#EXTINF:-1,[PT] Benfica Tv 2
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14692.ts
+#EXTINF:-1,[PT] Canal Cinemundo
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14693.ts
+#EXTINF:-1,[PT] Canal de Historia
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14694.ts
+#EXTINF:-1,[PT] Canal Hollywood
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14695.ts
+#EXTINF:-1,[PT] CARTON NETWORK
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14696.ts
+#EXTINF:-1,[PT] Chelsea TV
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14697.ts
+#EXTINF:-1,[PT] CINE MUNDO HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14698.ts
+#EXTINF:-1,[PT] CMTV
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14699.ts
+#EXTINF:-1,[PT] DISCOVERY CHANNEL
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14700.ts
+#EXTINF:-1,[PT] Disney Channel
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14701.ts
+#EXTINF:-1,[PT] E! Entertainment
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14702.ts
+#EXTINF:-1,[PT] Económico TV
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14703.ts
+#EXTINF:-1,[PT] Eurosport
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14704.ts
+#EXTINF:-1,[PT] EUROSPORT 1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14705.ts
+#EXTINF:-1,[PT] Fox Crime
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14706.ts
+#EXTINF:-1,[PT] FOX MOVE
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14707.ts
+#EXTINF:-1,[PT] Fox News
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14708.ts
+#EXTINF:-1,[PT] GLOBO TV
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14709.ts
+#EXTINF:-1,[PT] JimJam EMEA
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14710.ts
+#EXTINF:-1,[PT] Motors TV
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14711.ts
+#EXTINF:-1,[PT] MOV HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14712.ts
+#EXTINF:-1,[PT] MTV PORTUGAL
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14713.ts
+#EXTINF:-1,[PT] Nat Geo Wild
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14714.ts
+#EXTINF:-1,[PT] NICKELODEON
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14715.ts
+#EXTINF:-1,[PT] Odisseia
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14716.ts
+#EXTINF:-1,[PT] PANDA BIGGS
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14717.ts
+#EXTINF:-1,[PT] PANDA HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14718.ts
+#EXTINF:-1,[PT] RTP 1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14719.ts
+#EXTINF:-1,[PT] RTP 2
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14720.ts
+#EXTINF:-1,[PT] RTP Acores
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14721.ts
+#EXTINF:-1,[PT] RTP Africa
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14722.ts
+#EXTINF:-1,[PT] RTP Madeira
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14723.ts
+#EXTINF:-1,[PT] RTP Memoria
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14724.ts
+#EXTINF:-1,[PT] SIC
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14725.ts
+#EXTINF:-1,[PT] SIC CARAS
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14726.ts
+#EXTINF:-1,[PT] SIC Kids
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14727.ts
+#EXTINF:-1,[PT] SIC MULHER
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14728.ts
+#EXTINF:-1,[PT] SIC NOTICIAS
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14729.ts
+#EXTINF:-1,[PT] SIC RADICAL
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14730.ts
+#EXTINF:-1,[PT] SPORT TV 1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14731.ts
+#EXTINF:-1,[PT] Sport TV 1 HD
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14732.ts
+#EXTINF:-1,[PT] SPORT TV 5
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14733.ts
+#EXTINF:-1,[PT] Sporting TV
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14734.ts
+#EXTINF:-1,[PT] SYFY
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14735.ts
+#EXTINF:-1,[PT] TV Globo Premium
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14736.ts
+#EXTINF:-1,[PT] TVC 1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14737.ts
+#EXTINF:-1,[PT] TVC 2
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14738.ts
+#EXTINF:-1,[PT] TVC 3
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14739.ts
+#EXTINF:-1,[PT] TVC 4
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14740.ts
+#EXTINF:-1,[PT] TVI
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14741.ts
+#EXTINF:-1,[PT] TVI 24
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14742.ts
+#EXTINF:-1,[PT] TVI REALITY
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14743.ts
+#EXTINF:-1,[PT] VH1
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14744.ts
+#EXTINF:-1,[PT]SPORT TV 4
+http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14745.ts
